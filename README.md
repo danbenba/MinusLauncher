@@ -31,3 +31,5 @@ Pour toute question ou suggestion, veuillez ouvrir un problème dans le [dépôt
 
 ## Remarque
 Cette documentation est générée automatiquement et peut ne pas refléter toutes les fonctionnalités ou détails du projet MinusLauncher.
+
+![image](https://github.com/danbenba/MinusLauncher/assets/89309539/6e432ba9-d35b-437d-b5ac-99028d936ae8)
