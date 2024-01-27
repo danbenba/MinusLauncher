@@ -10,8 +10,6 @@ Listez ici les prérequis pour installer et exécuter le projet, par exemple :
 ## Installation
 Décrivez les étapes pour installer MinusLauncher, par exemple :
 1. Téléchargez la dernière version depuis la section [Releases](https://github.com/danbenba/MinusLauncher/releases).
-2. Décompressez le fichier dans le répertoire de votre choix.
-3. Exécutez `install_command` pour installer le lanceur.
 
 ## Utilisation
 Expliquez comment utiliser le lanceur, par exemple :
