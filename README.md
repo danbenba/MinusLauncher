@@ -1,27 +1,33 @@
-# MCLauncher
+# MinusLauncher
 
-This tool allows you to install several versions of Minecraft: Windows 10 Edition (Bedrock) side-by-side.
-This is useful if you want to test beta versions, releases or anything else side-by-side without needing to uninstall and reinstall the game.
+## À propos
+MinusLauncher est un lanceur conçu en C# et C++, actuellement en version 1.0 Beta.
 
-## Disclaimer
-This tool will **not** help you to pirate the game; it requires that you have a Microsoft account which can be used to download Minecraft from the Store.
+## Prérequis
+Listez ici les prérequis pour installer et exécuter le projet, par exemple :
+- .NET Framework 4.8
 
-## Prerequisites
-- A Microsoft account connected to Microsoft Store which **owns Minecraft for Windows 10**
-- **Administrator permissions** on your user account (or access to an account that has)
-- **Developer mode** enabled for app installation in Windows 10 Settings
-- If you want to be able to use beta versions, you'll additionally need to **subscribe to the Minecraft Beta program using Xbox Insider Hub**.
-- [Microsoft Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) installed.
+## Installation
+Décrivez les étapes pour installer MinusLauncher, par exemple :
+1. Téléchargez la dernière version depuis la section [Releases](https://github.com/danbenba/MinusLauncher/releases).
+2. Décompressez le fichier dans le répertoire de votre choix.
+3. Exécutez `install_command` pour installer le lanceur.
 
-## Setup
-- Download the latest release from the [Releases](https://github.com/MCMrARM/mc-w10-version-launcher/releases) section. Unzip it somewhere.
-- Run `MCLauncher.exe` to start the launcher.
+## Utilisation
+Expliquez comment utiliser le lanceur, par exemple :
+Pour lancer l'application, exécutez `launch_command`.
 
-## Compiling the launcher yourself
-You'll need Visual Studio with Windows 10 SDK version 10.0.17763 and .NET Framework 4.6.1 SDK installed. You can find these in the Visual Studio Installer if you don't have them out of the box.
-The project should build out of the box with VS as long as you haven't done anything bizarre.
+## Code Source
+Le code source est disponible dans le répertoire [src]([lien_vers_le_dossier_src](https://github.com/danbenba/MinusLauncher)).
 
-## Frequently Asked Questions
-**Does this allow running multiple instances of Minecraft: Bedrock at the same time?**
+## Contribution
+Les contributions sont les bienvenues. Veuillez consulter `CONTRIBUTING.md` pour les directives de contribution.
 
-At the time of writing, no. It allows you to _install_ multiple versions, but only one version can run at a time.
+## Licence
+Distribué sous la licence GPL-3.0. Voir `LICENSE` pour plus d'informations.
+
+## Contact
+Pour toute question ou suggestion, veuillez ouvrir un problème dans le [dépôt GitHub](https://github.com/danbenba/MinusLauncher/issues).
+
+## Remarque
+Cette documentation est générée automatiquement et peut ne pas refléter toutes les fonctionnalités ou détails du projet MinusLauncher.
