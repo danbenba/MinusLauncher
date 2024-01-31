@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Windows;
 
-namespace MCLauncher {
+namespace MinusLauncher{
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
